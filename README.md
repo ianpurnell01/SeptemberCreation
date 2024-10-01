@@ -23,6 +23,10 @@ These are categorized largely by employee count and revenue.
 - 500+ employees
 - Revenue over $100 million
 
+## Proof of Value:
+For proof of this tool's value, look no further than the thousands of business that have been targeted by ransomware. There is no such thing as too much preparation when it comes to demands worth millions of dollars. Here are lists of companies that have benefited from ransomware preparation tools and services like our own:
+
+https://www.ransomwarehelp.com/testimonials/
 
 ## Instructions:
 To run the program, navigate to the folder where rw_estimator.py has been downloaded and run the rw_estimator.py file.
