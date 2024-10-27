@@ -1,4 +1,6 @@
 import time
+import subprocess
+import sys
 
 # Ransomware demand calculator
 def main():
@@ -49,6 +51,9 @@ def main():
     print("5. Install antivirus software and keep it updated.")
     
     input("\nStay safe! Press Enter to exit.")
+    
+    # Call the report generation script
+    subprocess.run([sys.executable, 'report_generator.py', business_name, business_size.capitalize(), demand_range])
 
 if __name__ == "__main__":
     main()
