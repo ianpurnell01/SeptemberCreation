@@ -1,8 +1,8 @@
 import sys
 import os
-
+#Generating the report
 def generate_report_pdf(business_name, business_size, demand_range):
-    # Create HTML content for the report
+#HTML content for the report
     html_content = f'''<!DOCTYPE html>
 <html>
 <head><title>Ransomware Demand Report</title></head>
@@ -26,7 +26,7 @@ def generate_report_pdf(business_name, business_size, demand_range):
     with open('report.html', 'w') as file:
         file.write(html_content)
 
-    # Convert HTML to PDF using pdfkit
+    # Convert HTML to PDF using wkhtmltopdf
     os.system('wkhtmltopdf report.html ransom_report.pdf')
     os.remove('report.html')
     

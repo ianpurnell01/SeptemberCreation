@@ -1,6 +1,8 @@
 import time
 import subprocess
 import sys
+import webbrowser
+import os
 
 # Ransomware demand calculator
 def main():
@@ -52,6 +54,12 @@ def main():
     
     input("\nStay safe! Press Enter to exit.")
     
+    def openfaqs():
+        file_path = os.path.abspath('FAQs.html')
+        webbrowser.open_new_tab(f'file://{file_path}')
+        
+    
+    openfaqs()
     # Call the report generation script
     subprocess.run([sys.executable, 'report_generator.py', business_name, business_size.capitalize(), demand_range])
 
