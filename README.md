@@ -1,4 +1,32 @@
-# September Creation
+# October Patch Notes 0.9.1
+
+Based on our creation last month, we decided to expand our tool to add a report, as well as open to an HTML file that has a few FAQs regarding ransomware.
+
+Utilizing the data they gave us in last month's creation, we generate a report that consists of the provided information, as well as the tips we give them.
+
+## Instructions:
+
+To run the program, navigate to the folder where rw_estimator.py has been downloaded and run the rw_estimator.py file.
+
+Then follow the on screen instructions, pressing enter after each line/prompt.
+
+After completion, click enter. This should automatically download a report, as well as redirect you to the FAQ html file.
+
+If this does not work, try running this line in your terminal:
+python3 /Path/To/Your/file/rw_estimator.py
+
+## Proof of Value:
+
+Ransomware attacks have become increasingly sophisticated and frequent, as evidenced by recent trends in 2024. Reports indicate a dramatic rise in both the number and complexity of these attacks, with the average extortion demand exceeding $5.2 million per incident according to TRM Insights. The additional value we provide comes in the form of documentation, as well as providing educational resources. As we said before, there is no such thing as too much preperation in the face of ransomware.
+
+https://www.trmlabs.com/post/ransomware-in-2024-latest-trends-mounting-threats-and-the-government-response
+
+---  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+
+# September Release 0.9
 
 ## The Need:
 
@@ -46,27 +74,4 @@ Then follow the on screen instructions, pressing enter after each line/prompt.
 IS 565-001 Team 1 (Ian Purnell, Zein Musarsaa, and Connor Elder)
 
 ## This tool was created with debugging and data analysis help from generative AI (ChatGPT 4o mini).
-
-# October Creation
-
-Based on our creation last month, we decided to expand our tool to add a report, as well as open to an HTML file that has a few FAQs regarding ransomware.
-
-Utilizing the data they gave us in last month's creation, we generate a report that consists of the provided information, as well as the tips we give them.
-
-## Instructions:
-
-To run the program, navigate to the folder where rw_estimator.py has been downloaded and run the rw_estimator.py file.
-
-Then follow the on screen instructions, pressing enter after each line/prompt.
-
-After completion, click enter. This should automatically download a report, as well as redirect you to the FAQ html file.
-
-If this does not work, try running this line in your terminal:
-python3 /Path/To/Your/file/rw_estimator.py
-
-## Proof of Value:
-
-Ransomware attacks have become increasingly sophisticated and frequent, as evidenced by recent trends in 2024. Reports indicate a dramatic rise in both the number and complexity of these attacks, with the average extortion demand exceeding $5.2 million per incident according to TRM Insights. The additional value we provide comes in the form of documentation, as well as providing educational resources. As we said before, there is no such thing as too much preperation in the face of ransomware.
-
-https://www.trmlabs.com/post/ransomware-in-2024-latest-trends-mounting-threats-and-the-government-response
 
