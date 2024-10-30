@@ -1,4 +1,4 @@
-# October Patch Notes 0.9.1
+# October Patch 0.9.1 (beta)
 
 Based on our creation last month, we decided to expand our tool to add a report, as well as open to an HTML file that has a few FAQs regarding ransomware.
 
@@ -21,12 +21,16 @@ Ransomware attacks have become increasingly sophisticated and frequent, as evide
 
 https://www.trmlabs.com/post/ransomware-in-2024-latest-trends-mounting-threats-and-the-government-response
 
+## Credits:
+
+IS 565-001 Team 1 (Ian Purnell, Zein Musarsaa, and Connor Elder)
+
 ---  
 &nbsp;  
 &nbsp;  
 &nbsp;  
 
-# September Release 0.9
+# September Release 0.9 (beta)
 
 ## The Need:
 
