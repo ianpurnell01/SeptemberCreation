@@ -25,11 +25,11 @@ def main():
     # Ask for business industry
     print("\nSelect your business industry from the options below:")
     industries = {
-        "healthcare": 1.5,
-        "finance": 1.4,
-        "technology": 1.3,
-        "education": 1.2,
-        "retail": 1.1,
+        "healthcare": 0.7,
+        "finance": 0.75,
+        "technology": 0.80,
+        "education": 0.85,
+        "retail": 0.90,
         "other": 1.0
     }
     print("\n".join([f"- {key.capitalize()}" for key in industries.keys()]))
