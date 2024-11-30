@@ -1,3 +1,7 @@
+# November Patch 0.9.2 (beta)
+
+This month, we decided to enhance our tool even further by adding a risk score calculator. This risk score calculator takes numerous factors into account before computing how much their company is in danger. These factors are two things: security measures that the company has in place and the industry that they are in. Industry is important because some industries are going to be more risky by nature. Data that is held in healthcare in the financial sector is going to be more risk-prone than others. We hope that adding this functionality in will make companies realize how prone they are to ransomware attacks, and make the changes necessary.
+
 # October Patch 0.9.1 (beta)
 
 Based on our creation last month, we decided to expand our tool to add a report, as well as open to an HTML file that has a few FAQs regarding ransomware.
