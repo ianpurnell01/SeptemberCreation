@@ -1,6 +1,6 @@
 # November Patch 0.9.2 (beta)
 
-This month, we decided to enhance our tool even further by adding a risk score calculator. This risk score calculator takes numerous factors into account before computing how much their company is in danger. These factors are two things: security measures that the company has in place and the industry that they are in. 
+This month, we decided to enhance our tool even further by adding a risk score calculator. This risk score calculator takes numerous factors into account before computing how much their company is in danger. The factors taken into account are the following: security measures that the company has in place and the industry that they are in. 
 
 Industry is important because some industries are going to be more risky by nature. Data that is held in healthcare or in the financial sector is going to be more risk-prone than others. We hope that adding this functionality in will make companies realize how prone they are to ransomware attacks, and make the changes necessary.
 
