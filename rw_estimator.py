@@ -216,6 +216,8 @@ def main():
     generate_report_with_risk(business_name, business_size.capitalize(), demand_range, risk_level, answers)
     file_path = os.path.abspath('updated_report.html')
     webbrowser.open_new_tab(f'file://{file_path}')
+    
+    
 
 if __name__ == "__main__":
     main()

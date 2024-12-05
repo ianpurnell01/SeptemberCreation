@@ -1,4 +1,7 @@
+import time
+import subprocess
 import sys
+import webbrowser
 import os
 #Generating the report
 def generate_report_pdf(business_name, business_size, demand_range):
